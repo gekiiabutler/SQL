@@ -1,4 +1,4 @@
-#This codes shows SQL analysis of two Netflix datasets using protgreSQL dialect.
+#This codes shows SQL analysis of two Netflix datasets using postgreSQL dialect.
 #The projects contains insights on movies and TV shows hosted on Nextflix.
 
 CREATE TABLE netflix_titles_info
